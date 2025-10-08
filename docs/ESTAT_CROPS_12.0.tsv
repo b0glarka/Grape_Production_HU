@@ -1,0 +1,721 @@
+CODE	Label - English	Label - French	Label - German	Standard code	Note (EN only)	EC_corporate_code	EC_corporate_uri
+CRP	Crop products	Produits végétaux	Pflanzliche Erzeugung/Erzeugnisse	Y			
+AA_WA_FA9	Agricultural area, wooded area and other areas on the farms	Superficie agricole, superficie boisée et autres superficies des exploitations agricoles	Landwirtschaftsfläche, Waldgebiet und sonstige Fläche auf der Farm	Y			
+FA	Farm area	Superficie de l'exploitation agricole	Fläche der Landwirtschaftlicher Betriebe	Y			
+FA_OTH	Other farmland	Autres terres agricoles	Sonstige landwirtschaftliche Nutzfläche	Y			
+FAXSAA	Farm area excluding special agricultural production areas	Superficie de l'exploitation agricoles, superficie de production agricole spéciale non compris	Fläche der Landwirtschaftlicher Betriebe ohne fläche für Spezielle Landwirtschaftliche Erzeugung	Y			
+AA	Agricultural area	Superficie agricole	Landwirtschaftsfläche	Y			
+UAA	Utilised agricultural area	Superficie agricole utilisée	Landwirtschaftlich genutzte Fläche	Y			
+UAA09S	Other utilised agricultural area n.e.c. - under glass or high accessible cover	Autre superficie agricole utilisée - sous serre ou abris hauts accessibles	Sonstige Landwirtschaftlich genutzte Fläche - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+UAAIB	Irrigable utilised agricultural area	Superficie agricole utilisée irrigable	Bewässerbaren landwirtschaftlich genutzte Fläche	O			
+UAA_IB	Irrigable utilised agricultural area	Superficie agricole utilisée irrigable	Bewässerbaren landwirtschaftlich genutzte Fläche	Y			
+UAAIT	Irrigated utilised agricultural area	Superficie agricole utilisée irriguée	Bewässerte landwirtschaftlich genutzte Fläche	O			
+UAA_IT	Irrigated utilised agricultural area	Superficie agricole utilisée irriguée	Bewässerte landwirtschaftlich genutzte Fläche	Y			
+UAAT_IB	Irrigable utilised agricultural area - outdoor	Superficie agricole utilisée irrigable - de plein air	Bewässerbaren landwirtschaftlich genutzte Fläche - im Freiland	Y			
+UAAT	Utilised agricultural area - outdoor	Superficie agricole utilisée - de plein air	Landwirtschaftlich genutzte Fläche - im Freiland	Y			
+UAAS	Utilised agricultural area - under glass or high accessible cover	Superficie agricole utilisée - sous serre ou abris hauts accessibles	Landwirtschaftlich genutzte Fläche - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+UAAXK0000	Utilised agricultural area excluding kitchen gardens	Superficie agricole utilisée, jardins potagers non compris	Landwirtschaftlich genutzte Fläche ohne Haus- und Nutzgärten	Y			
+UAAXK0000_ORG	Fully converted and under conversion to organic farming utilised agricultural area (excluding kitchen gardens)	Entièrement converti et en conversion à l’agriculture biologique - superficie agricole utilisée (jardins potagers non compris)	Zu ökologischer/biologischer Landwirtschaft konvertierte oder unter Konversion befindliche landwirtschaftlich genutzte Fläche des landwirtschaftlichen Betriebes (ohne Haus- und Nutzgärten)	Y			
+ARA_J0000	Arable land and/or permanent grassland	Terres arables ou prairies permanentes	Ackerland oder Dauergrünland	Y			
+ARA09S	Other arable land crops n.e.c. - under glass or high accessible cover	Autres cultures de terres arables n.c.a. - sous serre ou abris hauts accessibles	Sonstige Kulturen auf dem Ackerland a. n. g. - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+ARA	Arable land	Terres arables	Ackerland	Y			
+ARA_IB	Irrigable arable land	Terres arables irrigables	Bewässerbares Ackerland	Y			
+ARAXIB	Non-irrigable arable land	Terres arables non irrigables	Nicht bewässerbares Ackerland	Y			
+FCONV_UCONV	Fully converted and under conversion to organic farming	Entièrement converti et en conversion à l'agriculture biologique	Gesau ökologischer/biologischer Landwirtschaft konvertiert oder unter Konversion	Y			
+C0000	Cereals for the production of grain (including seed)	Céréales pour la production de grains (y compris semence)	Getreide zur Körnergewinnung (einschließlich Saatguterzeugung)	Y			
+C0000T	Cereals for the production of grain (including seed) - outdoor	Céréales pour la production de grains (y compris semence) - de plein air	Getreide zur Körnergewinnung (einschließlich Saatguterzeugung) - im Freiland	Y			
+C0000T_ORG	Cereals for the production of grain (including seed) - outdoor - organic	Céréales pour la production de grains (y compris semence) - de plein air - agriculture biologique	Getreide zur Körnergewinnung (einschließlich Saatguterzeugung) - ökologisch/biologisch	Y			
+C0000X1500T	Cereals for the production of grain (including seed) excluding rice, grain maize and corn-cob-mix - outdoor	Céréales pour la production de grains (y compris semence) riz, maïs grain et corn-cob-mix non compris - de plein air	Getreide zur Körnergewinnung (einschließlich Saatguterzeugung) ohne Reis, Körnermais und Corn-Cob-Mix - im Freiland	Y			
+C1000	Cereals (excluding rice) for the production of grain (including seed)	Céréales (riz non compris) pour la production de grains (y compris semence)	Getreide (ohne Reis) zur Körnergewinnung (einschließlich Saatguterzeugung)	Y			
+C1000X1100	Cereals (excluding wheat)	Céréales (blé non compris)	Getreide (ohne Weizen)	Y			
+C1000X1500	Cereals (excluding rice, grain maize and corn-cob-mix) for the production of grain (including seed)	Céréales (riz, maïs grain et corn-cob-mix non compris) pour la production de grains (y compris semence)	Getreide (ohne Reis, Körnermais und Corn-Cob-Mix) zur Körnergewinnung (einschließlich Saatguterzeugung)	Y			
+C1000X1500T	Cereals (excluding rice, grain maize and corn-cob-mix) for the production of grain (including seed) - outdoor	Céréales (riz, maïs grain et corn-cob-mix non compris) pour la production de grains (y compris semence) - de plein air	Getreide (ohne Reis, Körnermais und Corn-Cob-Mix) zur Körnergewinnung (einschließlich Saatguterzeugung) - im Freiland	Y			
+C1100	Wheat and spelt	Blé et épeautre	Weizen und Dinkel	Y			
+C1110	Common wheat and spelt	Blé tendre et épeautre	Weichweizen und Dinkel	Y			
+C1110T	Common wheat and spelt - outdoor	Blé tendre et épeautre - de plein air	Weichweizen und Dinkel - im Freiland	Y			
+C1110T_ORG	Common wheat and spelt - outdoor - organic	Blé tendre et épeautre - de plein air - agriculture biologique	Weichweizen und Dinkel - im Freiland - ökologisch/biologisch	Y			
+C1111	Common winter wheat and spelt	Blé tendre et épeautre d'hiver	Winterweichweizen und Dinkel	Y			
+C1112	Common spring wheat and spelt	Blé tendre et épeautre de printemps	Sommerweichweizen und Dinkel	Y			
+C1120	Durum wheat	Blé dur	Hartweizen	Y			
+C1120T	Durum wheat - outdoor	Blé dur - de plein air	Hartweizen - im Freiland	Y			
+C1120T_ORG	Durum wheat - outdoor - organic	Blé dur - de plein air - agriculture biologique	Hartweizen - im Freiland - ökologisch/biologisch	Y			
+C1121	Winter durum wheat	Blé dur d'hiver	Winterhartweizen	Y			
+C1122	Spring durum wheat	Blé dur de printemps	Sommerhartweizen	Y			
+C1200	Rye and winter cereal mixtures (maslin)	Seigle et mélange de céréales d'hiver (meteil)	Roggen und Wintermenggetreide	Y			
+C1200T	Rye and winter cereal mixtures (maslin) - outdoor	Seigle et mélange de céréales d'hiver (meteil) - de plein air	Roggen und Wintermenggetreide - im Freiland	Y			
+C1210	Rye	Seigle	Roggen	Y			
+C1211	Winter rye	Seigle d'hiver	Winterroggen	Y			
+C1212	Spring rye	Seigle de printemps	Sommerroggen	Y			
+C1220	Winter cereal mixtures (maslin)	Mélanges de céréales d'hiver (méteil)	Wintermenggetreide	Y			
+C1300	Barley	Orge	Gerste	Y			
+C1300T	Barley - outdoor	Orge - de plein air	Gerste - im Freiland	Y			
+C1300F	Fodder barley	Orge fourragère	Futtergerste	Y			
+C1310	Winter barley	Orge d'hiver	Wintergerste	Y			
+C1320	Spring barley	Orge de printemps	Sommergerste	Y			
+C1320M	Malting barley	Orge de brasserie	Braugerste	Y			
+C1400	Oats and spring cereal mixtures (mixed grain other than maslin)	Avoine et mélanges de céréales de printemps (grains mélangés autres que méteil)	Hafer und Sommermenggetreide	Y			
+C1400T	Oats and spring cereal mixtures (mixed grain other than maslin) - outdoor	Avoine et mélanges de céréales de printemps (grains mélangés autres que méteil) - de plein air	Hafer und Sommermenggetreide - im Freiland	Y			
+C1410	Oats	Avoine	Hafer	Y			
+C1420	Spring cereal mixtures (mixed grain other than maslin)	Mélanges de céréales de printemps (grains mélangés autres que méteil)	Sommermenggetreide	Y			
+C1500	Grain maize and corn-cob-mix	Maïs grain et corn-cob-mix	Körnermais und Corn-Cob-Mix	Y			
+C1500T	Grain maize and corn-cob-mix - outdoor	Maïs grain et corn-cob-mix - de plein air	Körnermais und Corn-Cob-Mix - im Freiland	Y			
+C1510	Grain maize	Maïs grain	Körnermais	Y			
+C1520	Corn-cob-mix	Corn-cob-mix	Corn-Cob-Mix	Y			
+C1600_1700_1900	Other cereals (including triticale and sorghum)	Autres céréales (y compris triticale et sorgho)	Sonstiges Getreide (einschließlich Triticale und Sorgum)	Y			
+C1600	Triticale	Triticale	Triticale	Y			
+C1600T	Triticale - outdoor	Triticale - de plein air	Triticale - im Freiland	Y			
+C1610	Winter triticale	Triticale d'hiver	Wintertriticale	Y			
+C1700	Sorghum	Sorgho	Sorgum	Y			
+C1700T	Sorghum - outdoor	Sorgho - de plein air	Sorgum - im Freiland	Y			
+C1900	Other cereals n.e.c. (buckwheat, millet, canary seed, etc.)	Autres céréales n.c.a. (sarrasin, millet, alpiste, etc.)	Sonstiges Getreide a.n.g. (Buchweizen, Hirse, Kanariensaat, usw.)	Y			
+C1900T	Other cereals n.e.c. (buckwheat, millet, canary seed, etc.) - outdoor	Autres céréales n.c.a. (sarrasin, millet, alpiste, etc.) - de plein air	Sonstiges Getreide a.n.g. (Buchweizen, Hirse, Kanariensaat, usw.) - im Freiland	Y			
+C1920	Pseudocereals	Pseudo-céréales	Pseudogetreide	Y			
+C1921	Buckwheat	Sarrasin	Buchweizen	Y			
+C1922	Quinoa	Quinoa	Quinoa	Y			
+C1929	Other pseudocereals n.e.c.	Autres pseudo-céréales n.c.a.	Sonstiges Pseudogetreide a. n. g.	Y			
+C1990	Other cereals n.e.c. (millet, canary seed, etc.)	Autres céréales n.c.a. (millet, râteau, etc.)	Sonstiges Getreide zur Körnergewinnung a. n. g. (Rispenhirse, Kanariensaat usw.)	Y			
+C2000	Rice	Riz	Reis	Y			
+C2000T	Rice - outdoor	Riz - de plein air	Reis - im Freiland	Y			
+C2000X2000B	Rice (excluding broken rice) (equivalent milled rice)	Riz (brisures de riz non comprises) (équivalent riz usiné)	Reis (ohne Bruchreis) (Äquivalent - geschliffener Reis)	Y			
+C2100	Rice Indica	Riz Indica	Reis Indica	Y			
+C2200	Rice Japonica	Riz Japonica	Reis Japonica	Y			
+C2000B	Broken rice	Brisures de riz	Bruchreis	Y			
+C2000Y	Paddy rice	Riz Paddy	Paddy-Reis	Y			
+C2001Y	Paddy rice, long	Riz Paddy, long	Paddy, Langreis	Y			
+C2002Y	Paddy rice, round	Riz Paddy, rond	Paddy, Rundreis	Y			
+C2003Y	Paddy rice, medium	Riz Paddy, moyen	Paddy, Mittelreis	Y			
+C2000U	Husked rice	Riz décortiqué	Geschälter Reis	Y			
+C2001U	Husked rice, long	Riz décortiqué, long	Geschälter Reis, lang	Y			
+C2002U	Husked rice, round	Riz décortiqué, rond	Geschälter Reis, rund	Y			
+C2003U	Husked rice, medium	Riz décortiqué, moyen	Geschälter Reis, mittel	Y			
+C2000L	Milled rice	Riz usiné	Geschliffener Reis	Y			
+C2001L	Milled rice, long	Riz usiné, long	Geschliffener Reis, lang	Y			
+C2002L	Milled rice, round	Riz usiné, rond	Geschliffener Reis, rund	Y			
+C2003L	Milled rice, medium	Riz usiné, moyen	Geschliffener Reis, mittel	Y			
+P0000_I1130_G2000_V5000	Leguminous crops	Légumineuses	Leguminosen	Y			
+P0000	Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses)	Légumes secs et cultures protéagineuses pour la production de grains (y compris semences et mélanges de céréales et de légumes secs)	Hülsenfrüchte und Eiweißpflanzen zur Körnergewinnung (einschließlich Saatgut und Gemenge mit Getreide)	Y			
+P0000T	Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses) - outdoor	Légumes secs et cultures protéagineuses pour la production de grains (y compris semences et mélanges de céréales et de légumes secs) - de plein air	Hülsenfrüchte und Eiweißpflanzen zur Körnergewinnung (einschließlich Saatgut und Gemenge mit Getreide) - im Freiland	Y			
+P0000T_ORG	Dry pulses and protein crops for the production of grain (including seed and mixtures of cereals and pulses) - outdoor - organic	Légumes secs et cultures protéagineuses pour la production de grains (y compris semences et mélanges de céréales et de légumes secs) - de plein air - agriculture biologique	Hülsenfrüchte und Eiweißpflanzen zur Körnergewinnung (einschließlich Saatgut und Gemenge mit Getreide) - im Freiland - ökologisch/biologisch	Y			
+P1000	Field peas, beans and sweet lupins	Pois secs, féves et lupins doux	Felderbsen, Ackerbohnen und Süßlupinen	Y			
+P1000T	Field peas, beans and sweet lupins - outdoor	Pois secs, féves et lupins doux - de plein air	Felderbsen, Ackerbohnen und Süßlupinen - im Freiland	Y			
+P1100	Field peas	Pois secs	Felderbsen	Y			
+P1200	Broad and field beans	Fèves et féveroles	Puff- und Ackerbohnen	Y			
+P1210	Broad beans	Fèves	Puffbohnen	Y			
+P1220	Field beans	Féveroles	Ackerbohnen	Y			
+P1300	Sweet lupins	Lupins doux	Süßlupinen	Y			
+P9000	Other dry pulses and protein crops n.e.c. (lentils, chickpeas, vetches, etc.)	Autres légumes secs et cultures protéagineuses n.c.a (lentilles, pois chiches, vesce, etc.)	Sonstige trocken geerntete Hülsenfrüchte und Eiweißpflanzen a. n. g. (Linsen, Kichererbsen, Wicken usw.)	Y			
+P9000T	Other dry pulses and protein crops n.e.c. - outdoor	Autres légumes secs et cultures protéagineuses n.c.a. - de plein air	Sonstige trocken geerntete Hülsenfrüchte und Eiweißpflanzen a.n.g. - im Freiland	Y			
+P9100	Lentils	Lentilles	Linsen	Y			
+P9200	Chickpeas	Pois chiches	Kichererbsen	Y			
+P9300	Haricot beans	Haricots blancs	Gartenbohnen	Y			
+P9400	Vetches	Vesce	Wicken	Y			
+P9900	Other dry pulses and protein crops n.e.c.	Autres légumes secs et cultures protéagineuses n.c.a.	Sonstige trocken geerntete Hülsenfrüchte und Eiweißpflanzen a. n. g.	Y			
+R0000	Root crops	Plantes sarclées	Hackfrüchte	Y			
+R0000T	Root crops - outdoor	Plantes sarclées - de plein air	Hackfrüchte - im Freiland	Y			
+R0000T_ORG	Root crops - outdoor - organic	Plantes sarclées - de plein air - agriculture biologique	Hackfrüchte - im Freiland - ökologisch/biologisch	Y			
+R0000S	Root crops - under glass or high accessible cover	Plantes sarclées - sous serre ou abris hauts accessibles	Hackfrüchte - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+R1000	Potatoes (including seed potatoes)	Pommes de terre (y compris plants de pommes de terre)	Kartoffeln/Erdäpfel (einschließlich Pflanzkartoffeln/-erdäpfel)	Y			
+R1000T	Potatoes (including seed potatoes) - outdoor	Pommes de terre (y compris plants de pommes de terre) - de plein air	Kartoffeln/Erdäpfel (einschließlich Pflanzkartoffeln/-erdäpfel) - im Freiland	Y			
+R1000T_ORG	Potatoes (including seed potatoes) - outdoor - organic	Pommes de terre (y compris plants de pommes de terre) - de plein air - agriculture biologique	Kartoffeln/Erdäpfel (einschließlich Pflanzkartoffeln/-erdäpfel) - im Freiland - ökologisch/biologisch	Y			
+R1000S	Potatoes (including seed potatoes) - under glass or high accessible cover	Pommes de terre (y compris plants de pommes de terre) - sous serre ou abris hauts accessibles	Kartoffeln/Erdäpfel (einschließlich Pflanzkartoffeln/-erdäpfel) - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+R1100	Potatoes for fresh consumption	Pommes de terre de consommation	Kartoffeln/Erdäpfel zum Direktverzehr	Y			
+R1110	Main harvest potatoes	Pommes de terre de conservation	Haupterntekartoffeln/-erdäpfel	Y			
+R1120	Early potatoes	Pommes de terre de primeurs	Frühkartoffeln/-erdäpfel	Y			
+R1900	Other potatoes	Autres pommes de terre	Andere Kartoffeln/Erdäpfel	Y			
+R1910	Potatoes for processing	Pommes de terre industrielles	Verarbeitungskartoffeln / Industriekartoffeln/-erdäpfel	Y			
+R1911	Starch potatoes	Pommes de terre à fécule	Stärkekartoffeln/-erdäpfel	Y			
+R1919	Other potatoes for processing n.e.c.	Autres pommes de terre industrielles n.c.a.	Sonstige Verarbeitungskartoffeln / Industriekartoffeln/-erdäpfel	Y			
+R1920	Seed potatoes	Plants de pommes de terre	Pflanzkartoffeln/-erdäpfel	Y			
+R1930	Fodder potatoes	Pommes de terre fourragères	Futterkartoffeln/-erdäpfel	Y			
+R1990	Other potatoes n.e.c.	Autres pommes de terre n.c.a.	Sonstige Kartoffeln/Erdäpfel a.n.g.	Y			
+R2000	Sugar beet (excluding seed)	Betteraves à sucre (semences non comprises)	Zuckerrüben (ohne Saatgut)	Y			
+R2000T	Sugar beet (excluding seed) - outdoor	Betteraves à sucre (semences non comprises) - de plein air	Zuckerrüben (ohne Saatgut) - im Freiland	Y			
+R2000T_ORG	Sugar beet (excluding seed) - outdoor - organic	Betteraves à sucre (semences non comprises) - de plein air - agriculture biologique	Zuckerrüben (ohne Saatgut) - im Freiland - ökologisch/biologisch	Y			
+R2000SQ	Sugar beet: standard quality	Betteraves à sucre: qualité standard	Zuckerrüben: Standardqualität	Y			
+R9000	Other root crops n.e.c.	Autres plantes sarclées n.c.a.	Sonstige Hackfrüchte a.n.g.	Y			
+R9000T	Other root crops n.e.c. - outdoor	Autres plantes sarclées n.c.a. - de plein air	Sonstige Hackfrüchte a.n.g. - im Freiland	Y			
+R9100	Fodder root crops (including forage beet)	Plantes sarclées fourragères (y compris betteraves fourragères)	Futterhackfrüchte (einschließlich Futterrüben)	Y			
+I0000AM	Industrial crops (agri-monetary)	Plantes industrielles (agro-monétaire)	Handelsgewächse (LGR und Preise)	Y			
+I0000	Industrial crops	Plantes industrielles	Handelsgewächse	Y			
+I0000T	Industrial crops - outdoor	Plantes industrielles - de plein air	Handelsgewächse - im Freiland	Y			
+I0000T_ORG	Industrial crops - outdoor - organic	Plantes industrielles - de plein air - agriculture biologique	Handelsgewächse - im Freiland - ökologisch/biologisch	Y			
+I0000S	Industrial crops - under glass or high accessible cover	Plantes indutrielles - sous serre ou abris hauts accessibles	Handelsgewächse - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+I1000	Oilseeds and oleaginous fruits	Graines et fruits oléagineux	Ölsaaten und Ölfrüchte	Y			
+I1100	Oilseeds	Graines oléagineuses	Ölsaaten	Y			
+I1110-1130	Rape, turnip rape, sunflower seeds and soya	Graines de colza, de navette, de tournesol et soja	Raps, Rübsen, Sonnenblumen und Sojabohnen zur Körnergewinnung	Y			
+I1110	Rape and turnip rape seeds	Graines de colza et de navette	Raps und Rübsen zur Körnergewinnung	Y			
+I1110T	Rape and turnip rape seeds - outdoor	Graines de colza et de navette - de plein air	Raps und Rübsen zur Körnergewinnung - im Freiland	Y			
+I1111	Winter rape and turnip rape seeds	Graines de colza et de navette d'hiver	Winterraps und -rübsen zur Körnergewinnung	Y			
+I1112	Spring rape and turnip rape seeds	Graines de colza et de navette de printemps	Sommerraps und -rübsen zur Körnergewinnung	Y			
+I1120	Sunflower seed	Graines de tournesol	Sonnenblumen zur Körnergewinnung	Y			
+I1120T	Sunflower seed - outdoor	Graines de tournesol - de plein air	Sonnenblumen zur Körnergewinnung - im Freiland	Y			
+I1130	Soya	Soja	Sojabohnen	Y			
+I1130T	Soya - outdoor	Soja - de plein air	Sojabohnen - im Freiland	Y			
+I1130T_ORG	Soya - outdoor - organic	Soja - de plein air - agriculture biologique	Sojabohnen - im Freiland - ökologisch/biologisch	Y			
+I1140-1190	Other oilseed crops	Autres graines oléagineuses	Sonstige Ölfrüchte zur Körnergewinnung	Y			
+I1140	Linseed (oil flax)	Graines de lin (lin oléagineux)	Öllein (Leinsamen) zur Körnergewinnung	Y			
+I1140T	Linseed (oil flax) - outdoor	Graines de lin (lin oléagineux) - de plein air	Öllein (Leinsamen) zur Körnergewinnung - im Freiland	Y			
+I1150_2300	Cotton seed and fibre	Graines et fibres de coton	Baumwolle zur Körner- und Fasergewinnung	Y			
+I1150_2300T	Cotton seed and fibre - outdoor	Graines et fibres de coton - de plein air	Baumwolle zur Körner- und Fasergewinnung - im Freiland	Y			
+I1150	Cotton seed	Graines de coton	Baumwolle zur Körnergewinnung	Y			
+I1190	Other oilseed crops n.e.c.	Autres graines oléagineuses n.c.a.	Sonstige Ölfrüchte zur Körnergewinnung a.n.g.	Y			
+I1190T	Other oilseeds and oleaginous fruits - outdoor	Autres graines et fruits oléagineux - de plein air	Sonstige Ölsaaten und -früchte - im Freiland	Y			
+I1900	Other oilseeds and oleaginous fruits	Autres graines et fruits oléagineux	Sonstige Ölsaaten und -früchte	Y			
+I1910	Unshelled peanuts	Arachides non décortiquées	Ungeschälte Erdnüsse	Y			
+I1920AM	Poppy (seeds)	Pavots (graines)	Mohn (samen)	Y			
+I2000	Fibre crops	Plantes textiles	Pflanzen zur Fasergewinnung	Y			
+I2000T	Fibre crops - outdoor	Plantes textiles - de plein air	Pflanzen zur Fasergewinnung - im Freiland	Y			
+I2100_2200_2900	Fibre flax, hemp and other fibre crops n.e.c.	Lin textile, chanvre et autres plantes textiles n.c.a.	Flachs, Hanf und sonstige Pflanzen zur Fasergewinnung a.n.g.	Y			
+I2100	Fibre flax	Lin textile	Flachs	Y			
+I2100T	Fibre flax - outdoor	Lin textile - de plein air	Flachs - im Freiland	Y			
+I2200	Hemp	Chanvre	Hanf	Y			
+I2200T	Hemp - outdoor	Chanvre - de plein air	Hanf - im Freiland	Y			
+I2300	Cotton fibre	Fibres de coton	Baumwolle	Y			
+I1190_2900	Other oilseed and fibre crops	Autres plantes oléagineuses et textiles	Sonstige Ölsaaten und Textilpflanzen	Y			
+I2900	Other fibre crops n.e.c.	Autres plantes textiles n.c.a.	Sonstige Pflanzen zur Fasergewinnung a.n.g.	Y			
+I2900T	Other fibre crops n.e.c. - outdoor	Autres plantes textiles n.c.a. - de plein air	Sonstige Pflanzen zur Fasergewinnung a.n.g. - im Freiland	Y			
+I3000	Tobacco	Tabac	Tabak	Y			
+I3000T	Tobacco - outdoor	Tabac - de plein air	Tabak - im Freiland	Y			
+I3100	Raw Tobacco	Tabac brut	Rohtabak	Y			
+I3100V1	Raw tobacco - most important variety	Tabac brut - variété la plus importante	Rohtabak - wichtigste Sorte	Y			
+I3100V2	Raw tobacco - 2nd most important variety	Tabac brut - 2de variété la plus importante	Rohtabak - zweitwichtigste Sorte	Y			
+I3110	Raw tobacco - flue cured	Tabac brut - séché à l'air chaud	Rohtabak - flue cured	Y			
+I3120	Raw tobacco - light air cured	Tabac brut - clair séché à l'air	Rohtabak - light air cured	Y			
+I3130	Raw tobacco - dark air cured	Tabac brut - noir séché à l'air	Rohtabak - dark air cured	Y			
+I3140	Raw tobacco - fire cured	Tabac brut - séché au feu	Rohtabak - fire cured	Y			
+I3150	Raw tobacco - sun cured	Tabac brut - séché au soleil	Rohtabak - sun cured	Y			
+I4000	Hops	Houblon	Hopfen	Y			
+I4000T	Hops - outdoor	Houblon - de plein air	Hopfen - im Freiland	Y			
+I4000V1	Hops - most important variety	Houblon - variété la plus importante	Hopfen - wichtigste Sorte	Y			
+I5000_9000	Other industrial crops including aromatic, medicinal and culinary plants	Autres plantes industrielles y compris plantes aromatiques, médicinales et condimentaires	Sonstige Handelsgewächse einschließlich Heil-, Duft- und Gewürzpflanzen	Y			
+I5000	Aromatic, medicinal and culinary plants	Plantes aromatiques, médicinales et condimentaires	Heil-, Duft- und Gewürzpflanzen	Y			
+I5000T	Aromatic, medicinal and culinary plants - outdoor	Plantes aromatiques, médicinales et condimentaires - de plein air	Heil-, Duft- und Gewürzpflanzen - im Freiland	Y			
+I5000S	Aromatic, medicinal and culinary plants - under glass or high accessible cover	Plantes aromatiques, médicinales et condimentaires - sous serre ou abris hauts accessibles	Heil-, Duft- und Gewürzpflanzen - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+I6000_9000	Other industrial crops including energy crops n.e.c.	Autres plantes industrielles y compris cultures énergétiques n.c.a.	Sonstige Handelsgewächse einschließlich Energiepflanzen a.n.g.	Y			
+I6000	Energy crops n.e.c.	Cultures énergétiques n.c.a.	Energiepflanzen a.n.g.	Y			
+I6000T	Energy crops n.e.c. - outdoor	Cultures énergétiques n.c.a. - de plein air	Energiepflanzen a.n.g. - im Freiland	Y			
+I9000	Other industrial crops n.e.c.	Autres plantes industrielles n.c.a.	Sonstige Handelsgewächse a.n.g.	Y			
+I9000T	Other industrial crops n.e.c. - outdoor	Autres plantes industrielles n.c.a. - de plein air	Sonstige Handelsgewächse a.n.g. - im Freiland	Y			
+I9000AM	Other industrial crops (agri-monetary)	Autres plantes industrielles (agro-monétaire)	Sonstige Handelsgewächse (LGR und Preise)	Y			
+I9900AM	Other industrial crops (agri-monetary) n.e.c.	Autres plantes industrielles (agro-monétaire) n.c.a.	Sonstige Handelsgewächse (LGR und Preise) a.n.g.	Y			
+G0000_J0000	Graminaceous, leguminous and oleaginous plants harvested green (including grazings)	Plantes graminacées, légumineuses et oléagineuses prélevées en vert (y compris pâturages)	Süßgräser, Leguminosen und Ölfrüchte zur Grünernte (einschließlich Weiden)	Y			
+G0000_J1000_2000	Plants harvested green, permanent pastures, meadows and rough grazings	Plantes prélevées en vert, pâturages, prairies et pâturages pauvres permanents	Pflanzen zur Grünernte, Dauerweiden, Wiesen und ertragsarmes Dauergrünland	Y			
+G0000_J1000_2000_R9000	Plants harvested green, permanent pastures, meadows and rough grazings, and other root crops n.e.c.	Plantes prélevées en vert, pâturages, prairies et pâturages pauvres permanents, et autres plantes sarclées n.c.a.	Pflanzen zur Grünernte, Dauerweiden, Wiesen und ertragsarmes Dauergrünland, und sonstige Hackfrüchte a.n.g.	Y			
+G0000	Plants harvested green from arable land	Plantes prélevées en vert sur les terres arables	Pflanzen zur Grünernte vom Ackerland	Y			
+G0000T	Plants harvested green from arable land - outdoor	Plantes prélevées en vert sur les terres arables - de plein air	Pflanzen zur Grünernte vom Ackerland - im Freiland	Y			
+G0000T_ORG	Plants harvested green from arable land - outdoor - organic	Plantes prélevées en vert sur les terres arables - de plein air - agriculture biologique	Pflanzen zur Grünernte vom Ackerland - im Freiland - ökologisch/biologisch	Y			
+G0000X1000	Plants harvested green from arable land excluding temporary grasses and grazings	Plantes prélevées en vert sur les terres arables (prairies temporaires non compris)	Pflanzen zur Grünernte vom Ackerland (ohne Feldgras/Grasanbau auf dem Ackerland)	Y			
+G0000X1000T	Plants harvested green from arable land excluding temporary grasses and grazings - outdoor	Plantes prélevées en vert sur les terres arables (prairies temporaires non compris) - de plein air	Pflanzen zur Grünernte vom Ackerland (ohne Feldgras/Grasanbau auf dem Ackerland) - im Freiland	Y			
+G1000	Temporary grasses and grazings	Prairies temporaires et pâturages	Feldgras/Grasanbau auf dem Ackerland	Y			
+G1000T	Temporary grasses and grazings - outdoor	Prairies temporaires et pâturages - de plein air	Feldgras/Grasanbau auf dem Ackerland - im Freiland	Y			
+G1000T_ORG	Temporary grasses and grazings - outdoor - organic	Prairies temporaires et pâturages - de plein air - agriculture biologique	Feldgras/Grasanbau auf dem Ackerland - im Freiland - ökologisch/biologisch	Y			
+G1100	Temporary grasses	Prairies temporaires	Ackerwiesen	Y			
+G1200	Temporary grazings	Pâturages temporaires	Ackerweiden	Y			
+G2000	Leguminous plants harvested green	Plantes légumineuses prélevées en vert	Leguminosen zur Ganzpflanzenernte	Y			
+G2000T	Leguminous plants harvested green - outdoor	Plantes légumineuses prélevées en vert - de plein air	Leguminosen zur Ganzpflanzenernte - im Freiland	Y			
+G2000T_ORG	Leguminous plants harvested green - outdoor - organic	Plantes légumineuses prélevées en vert - de plein air - agriculture biologique	Leguminosen zur Ganzpflanzenernte - im Freiland - ökologisch/biologisch	Y			
+G2100	Lucerne	Luzerne	Luzerne	Y			
+G2900	Other leguminous plants harvested green n.e.c. (clover etc.)	Autres plantes légumineuses récoltées en vert n.c.a (trèfle etc.)	Sonstige Leguminosen zur Ganzpflanzenernte a. n. g. (Klee usw.)	Y			
+G2910	Clover and mixtures	Trèfle et mélanges avec trèfle	Klee und Kleemischkulturen	Y			
+G2920	Legume grass mixtures	Mélanges légumineuses/ graminées	Gemenge aus Leguminosen und Gras	Y			
+G2990	Other leguminous plants harvested green n.e.c.	Autres plantes légumineuses récoltées en vert n.c.a.	Sonstige Leguminosen zur Ganzpflanzenernte a. n. g.	Y			
+G3000	Green maize	Maïs ensillage	Grünmais/Silomais	Y			
+G3000T	Green maize - outdoor	Maïs ensillage - de plein air	Grünmais/Silomais - im Freiland	Y			
+G9000	Other plants harvested green from arable land	Autres plantes prélevées en vert sur des terres arrables	Andere Pflanzen zur Grünernte vom Ackerland	Y			
+G9000T	Other plants harvested green from arable land - outdoor	Autres plantes prélevées en vert sur des terres arrables - de plein air	Andere Pflanzen zur Grünernte vom Ackerland - im Freiland	Y			
+G9100	Other cereals harvested green (excluding green maize)	Autres céréales prélevées en vert (maïs ensilage non compris)	Getreide zur Ganzpflanzenernte (ohne Grünmais/Silomais)	Y			
+G9100T	Other cereals harvested green (excluding green maize) - outdoor	Autres céréales prélevées en vert (maïs ensilage non compris) - de plein air	Getreide zur Ganzpflanzenernte (ohne Grünmais/Silomais)  - im Freiland	Y			
+G9900	Other plants harvested green from arable land n.e.c.	Autres plantes prélevées en vert sur les terres arrables n.c.a.	Sonstige Pflanzen zur Grünernte vom Ackerland a.n.g. (anderweitig nicht genannt)	Y			
+G9900T	Other plants harvested green from arable land n.e.c. - outdoor	Autres plantes prélevées en vert sur les terres arrables n.c.a. - de plein air	Sonstige Pflanzen zur Grünernte vom Ackerland a.n.g. (anderweitig nicht genannt)  - im Freiland	Y			
+G9100_9900T	Other cereals harvested green (excluding green maize) and other plants harvested green from arable land n.e.c. - outdoor	Autres céréales prélevées en vert (maïs ensilage non compris) et autres plantes prélevées en vert sur les terres arrables n.c.a. - de plein air	Getreide zur Ganzpflanzenernte (ohne Grünmais/Silomais) und sonstige Pflanzen zur Grünernte vom Ackerland a.n.g. (anderweitig nicht genannt) - im Freiland	Y			
+VSK	Fresh vegetables (including melons) and strawberries (including kitchen gardens)	Légumes frais (y compris melons et pastèques) et fraises (y compris jardins potagers)	Frischgemüse (einschließlich Melonen) und Erdbeeren (auch aus Haus- und Nutzgärten)	Y			
+V0000AM_PLF	Fresh vegetables (including melons) and horticultural products	Légumes frais (y compris melons et pastèques) et produits horticoles	Frischgemüse (einschließlich Melonen) und Gartenbauerzeugnisse	Y			
+VSNPECRS	Vegetables, strawberries, permanent crops, flowers and ornamental plants under glass or high accessible cover	Légumes, fraises, cultures permanentes, fleurs et plantes ornementales sous serre ou abris hauts accessibles	Gemüse, Erdbeeren, Dauerkulturen, Blumen und Zierpflanzen unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+V0000_S0000	Fresh vegetables (including melons) and strawberries	Légumes frais (y compris melons et pastèques) et fraises	Frischgemüse (einschließlich Melonen) und Erdbeeren	Y			
+V0000_S0000_ORG	Fresh vegetables (including melons) and strawberries - organic	Légumes frais (y compris melons et pastèques) et fraises - biologique	Frischgemüse (einschließlich Melonen) und Erdbeeren – ökologisch/biologisch	Y			
+V0000_S0000T	Fresh vegetables (including melons) and strawberries - outdoor	Légumes frais (y compris melons et pastèques) et fraises - de plein air	Frischgemüse (einschließlich Melonen) und Erdbeeren - im Freiland	Y			
+V0000_S0000T_ORG	Fresh vegetables (including melons) and strawberries - outdoor - organic	Légumes frais (y compris melons et pastèques) et fraises - de plein air - agriculture biologique	Frischgemüse (einschließlich Melonen) und Erdbeeren - im Freiland - ökologisch/biologisch	Y			
+V0000_S0000TO	Fresh vegetables (including melons) and strawberries grown in rotation with non-horticultural crops (open field)	Légumes frais (y compris melons et pastèques) et fraises cultivés en rotation avec des cultures non horticoles (plein champ)	Frischgemüse (einschließlich Melonen) und Erdbeeren im Wechsel mit landwirtschaftlichen Kulturen (Ackerbau)	Y			
+V0000_S0000TK	Fresh vegetables (including melons) and strawberries grown in rotation with horticultural crops (market gardening)	Légumes frais (y compris melons et pastèques) et fraises cultivés en rotation avec des cultures horticoles (maraîchage)	Frischgemüse (einschließlich Melonen) und Erdbeeren im Wechsel mit Gartenbaukulturen (Gartenbau)	Y			
+V0000_S0000S	Fresh vegetables (including melons) and strawberries - under glass or high accessible cover	Légumes (y compris melons et pastèques) et fraises - sous serre ou abris hauts accessibles	Frischgemüse (einschließlich Melonen) und Erdbeeren - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+V0000_S0000S_ORG	Fresh vegetables (including melons) and strawberries - under glass or high accessible cover - organic	Légumes (y compris melons et pastèques) et fraises - sous serre ou abris hauts accessibles - agriculture biologique	Frischgemüse (einschließlich Melonen) und Erdbeeren - unter Glas oder hohen begehbaren Schutzabdeckungen - ökologisch/biologisch	Y			
+V0000X3500	Fresh vegetables excluding melons	Légumes frais, melons et pastèques non compris	Frischgemüse ohne Melonen	Y			
+V0000AM	Fresh vegetables including melons (agri-monetary)	Légumes frais y compris melons et pastèques (agro-monétaire)	Frischgemüse einschließlich Melonen (LGR und Preise)	Y			
+V0000	Fresh vegetables (including melons)	Légumes frais (y compris melons et pastèques)	Frischgemüse (einschließlich Melonen)	Y			
+V1000	Brassicas	Choux communs (Brassicas)	Speisekohl	Y			
+V1100	Cauliflower and broccoli	Choux-fleurs et brocolis	Blumenkohl / Karfiol und Brokkoli	Y			
+V1110	Cauliflower	Choux-fleurs	Blumenkohl / Karfiol	Y			
+V1110Q1	Cauliflower - quality I	Choux-fleurs - qualité I	Blumenkohl/Karfiol - Qualität I	Y			
+V1120	Broccoli	Brocolis	Brokkoli	Y			
+V1200_1900	Brussels sprouts and other brassicas n.e.c	Choux de Bruxelles et autres choux communs n.c.a.	Rosenkohl/Kohlsprossen und sonstige Speisekohlarten a.n.g	Y			
+V1200	Brussels sprouts	Choux de Bruxelles	Rosenkohl/Kohlsprossen	Y			
+V1200Q1	Brussels sprouts - quality I	Choux de Bruxelles - qualité I	Rosenkohl/Kohlsprossen - Qualität I	Y			
+V1300	Cabbages	Choux pommés	Kopfkohl(arten)	Y			
+V1310	White cabbage	Choux blancs	Weißkohl (Weisskraut)	Y			
+V1310Q1	White cabbage - quality I	Choux blancs - qualité I	Weisskohl (Weisskraut) - Qualität I	Y			
+V1320	Red cabbage	Choux rouges	Rotkohl (Rotkraut)	Y			
+V1320Q1	Red cabbage - quality I	Choux rouges - qualité I	Rotkohl (Rotkraut) - Qualität I	Y			
+V1330	Savoy cabbage	Choux de Milan/de Savoie	Wirsing(kohl)	Y			
+V1330Q1	Savoy cabbage - quality I	Choux de Milan/de Savoie - qualité I	Wirsing(kohl) - Qualität I	Y			
+V1900	Other brassicas n.e.c	Autres choux communs n.c.a.	Sonstige Speisekohlarten a.n.g	Y			
+V1910	Kohlrabi	Choux-raves	Kohlrabi	Y			
+V1920	Chinese cabbage	Choux chinois	Chinakohl	Y			
+V2000	Leafy and stalked vegetables (excluding brassicas)	Légumes à feuilles et à tiges (choux non compris)	Blatt- und Stängelgemüse (ohne Kohlarten)	Y			
+V2100	Leeks	Poireaux	Porree/Lauch	Y			
+V2100T	Leeks - outdoor	Poireaux - de plein air	Porree/Lauch - im Freiland	Y			
+V2200	Celery	Céleris branches	Stauden-/Stangensellerie	Y			
+V2300	Lettuces	Laitues	Salate	Y			
+V2300T	Lettuces - outdoor	Laitues - de plein air	Salate - im Freiland	Y			
+V2300TQ1	Lettuces - outdoor - quality I	Laitues - de plein air - qualité I	Salate - im Freiland - Qualität I	Y			
+V2300S	Lettuces - under glass or high accessible cover	Laitues - sous serre ou abris hauts accessibles	Salate - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+V2300SQ1	Lettuces - under glass or high accessible cover - quality I	Laitues - sous serre ou abris hauts accessibles: qualité I	Salate - unter Glas oder hohen begehbaren Schutzabdeckungen - Qualität I	Y			
+V2310	Iceberg lettuce	Laitue iceberg	Eis(berg)salat/Bummerlsalat	Y			
+V2400	Endives	Chicorées frisées et scaroles	Endiviensalat	Y			
+V2500	Spinach	Épinards	Spinat	Y			
+V2600	Asparagus	Asperges	Spargel	Y			
+V2600Q1	Asparagus - quality I	Asperges - qualité I	Spargel - Qualität I	Y			
+V2700	Chicory	Chicorée	Chicorée	Y			
+V2710	Chicory for fresh consumption	Chicorée de consommation	Chicorée zum Direktverzehr	Y			
+V2720	Chicory for processing	Chicorée destinée à la transformation	Chicorée/Zichorien zur Verarbeitung (Inulin, Kaffee)	Y			
+V2800	Artichokes	Artichauts	Artischocken	Y			
+V2900	Other leafy or stalked vegetables n.e.c.	Autres légumes à feuilles ou à tiges n.c.a.	Sonstiges Blatt- und Stängelgemüse a.n.g.	Y			
+V3000	Vegetables cultivated for fruit (including melons)	Légumes cultivés pour le fruit (y compris melons et pastèques)	Fruchtgemüse (einschließlich Melonen)	Y			
+V3100	Tomatoes	Tomates	Tomaten/Paradeiser	Y			
+V3110	Tomatoes for fresh consumption	Tomates de consommation	Tomaten/Paradeiser zum Direktverzehr	Y			
+V3120	Tomatoes for processing	Tomates destinées à la transformation	Tomaten/Paradeiser zur Verarbeitung	Y			
+V3100T	Tomatoes - outdoor	Tomates - de plein air	Tomaten/Paradeiser - im Freiland	Y			
+V3101TQ1	Tomatoes - outdoor - round; quality I	Tomates - de plein air - rondes; qualité I	Tomaten/Paradeiser - im Freiland - rund; Qualität I	Y			
+V3102TQ1	Tomatoes - outdoor - long; quality I	Tomates - de plein air - allongées; qualité I	Tomaten/Paradeiser - im Freiland - oval; Qualität I	Y			
+V3100S	Tomatoes - under glass or high accessible cover	Tomates - sous serre ou abris hauts accessibles	Tomaten/Paradeiser - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+V3100SQ1	Tomatoes - under glass or high accessible cover - quality I	Tomates - sous serre ou abris hauts accessibles - qualité I	Tomaten/Paradeiser - unter Glas oder hohen begehbaren Schutzabdeckungen - Qualität I	Y			
+V3200_V3300	Cucumbers and gherkins	Concombres et cornichons	Gurken und Cornichons	Y			
+V3200S_V3300S	Cucumbers and gherkins - under glass or high accessible cover	Concombres et cornichons - sous serre ou abris hauts accessibles	Gurken und Cornichons - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+V3200	Cucumbers	Concombres	Salatgurken	Y			
+V3200T	Cucumbers - outdoor	Concombres - de plein air	Salatgurken - im Freiland	Y			
+V3200TQ1	Cucumbers - outdoor - quality I	Concombres - de plein air - qualité I	Salatgurken - im Freiland - Qualität I	Y			
+V3200S	Cucumbers - under glass or high accessible cover	Concombres - sous serre ou abris hauts accessibles	Salatgurken - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+V3200SQ1	Cucumbers - under glass or high accessible cover - quality I	Concombres - sous serre ou abris hauts accessibles - qualité I	Salatgurken - unter Glas oder hohen begehbaren Schutzabdeckungen - Qualität I	Y			
+V3300	Gherkins	Cornichons	Einlegegurken	Y			
+V3300T	Gherkins - outdoor	Cornichons - de plein air	Einlegegurken - im Freiland	Y			
+V3400	Eggplants, courgettes (including marrows), gourds and pumpkins	Aubergines, courgettes (y compris courges), potirons et citrouilles	Auberginen (Melanzani), Zucchinis und Speisekürbisse	Y			
+V3410	Eggplants	Aubergines	Auberginen/Melanzani	Y			
+V3420	Courgettes and marrows	Courgettes	Zucchinis	Y			
+V3430	Gourds and pumpkins	Courges et citrouilles	Speisekürbisse	Y			
+V3500	Melons	Melons et pastèques	Melonen	Y			
+V3510	Muskmelons	Melons	Zuckermelonen	Y			
+V3520	Watermelons	Pastèques	Wassermelonen	Y			
+V3600	Peppers (capsicum)	Poivrons (piments)	Gemüse- und Pfefferpaprika/Peperoni	Y			
+V3600S	Peppers (capsicum) - under glass or high accessible cover	Poivrons (piments) - sous serre ou abris hauts accessibles	Gemüse- und Pfefferpaprika/Peperoni - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+V3610	Red peppers (capsicum)	Poivrons (piments) rouges	Rote Gemüse- und Pfefferpaprika/Peperoni	Y			
+V3900	Other vegetables cultivated for fruit n.e.c.	Autres légumes cultivés pour le fruit n.c.a.	Sonstige Fruchtgemüsearten a.n.g.	Y			
+V4000	Root, tuber and bulb vegetables	Légumes-racines, bulbes et tubercules	Wurzel- und Knollengemüse	Y			
+V4100	Carrots	Carottes	Möhren/Karotten	Y			
+V4100Q1	Carrots - quality I	Carottes - qualité I	Möhren/Karotten - Quality I	Y			
+V4200	Onions and shallots	Oignons et échalotes	Zwiebeln und Schalotten	Y			
+V4210	Onions	Oignons	Zwiebeln	Y			
+V4220	Shallots	Échalotes	Schalotten	Y			
+V4300	Beetroot	Betteraves potagères	Rote Bete/Rote Rüben	Y			
+V4400	Celeriac	Céleris raves	Knollensellerie	Y			
+V4500	Radishes	Radis	Radieschen	Y			
+V4600	Garlic	Ail	Knoblauch	Y			
+V4900	Other root, tuber and bulb vegetables n.e.c.	Autres légumes-racines, bulbes et tubercules n.c.a.	Sonstige Wurzel- und Knollengemüse a.n.g.	Y			
+V4910	Turnips	Navets potagers	Speiserüben	Y			
+V4920	Fennel	Fenouil	Fenchel	Y			
+V4930	Salsifies and scorzonera	Salsifis et scorsonères	Schwarz- und Haferwurzeln	Y			
+V5000AM	Fresh pulses (agri-monetary)	Légumes frais à cosse (agro-monétaire)	Frische Hülsenfrüchte (LGR und Preise)	Y			
+V5000	Fresh pulses	Légumes frais à cosse	Frische Hülsenfrüchte	Y			
+V5100	Fresh peas	Petits pois frais	Frische Speiseerbsen	Y			
+V5100Q1	Fresh peas - quality I	Haricots verts - qualité I	Frische Speiseerbsen - Qualität I	Y			
+V5200	Fresh beans	Haricots frais	Frische Speisebohnen	Y			
+V5210	French beans	Haricots verts	Grüne Bohnen	Y			
+V5210Q1	French beans - quality I	Haricots verts - qualité I	Grüne Bohnen - Qualität I	Y			
+V5220	Runner beans	Haricots d'Espagne	Feuerbohnen (Käferbohnen)	Y			
+V5900	Other fresh pulses n.e.c.	Autres légumes frais à cosse n.c.a.	Sonstige frische Hülsenfrüchte a.n.g.	Y			
+V9000	Other fresh vegetables n.e.c.	Autres légumes frais n.c.a.	Sonstiges Frischgemüse a.n.g.	Y			
+V9000AM	Other fresh vegetables (agri-monetary)	Autres légumes frais (agro-monétaire)	Sonstiges Frischgemüse (LGR und Preise)	Y			
+V9900AM	Other fresh vegetables n.e.c. (agri-monetary)	Autres légumes frais n.c.a. (agro-monétaire)	Sonstiges Frischgemüse a.n.g. (LGR und Preise)	Y			
+S0000	Strawberries	Fraises	Erdbeeren	Y			
+S0000T	Strawberries - outdoor	Fraises - de plein air	Erdbeeren - im Freiland	Y			
+S0000S	Strawberries - under glass or high accessible cover	Fraises - sous serre ou abris hauts accessibles	Erdbeeren - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+ARA9	Other arable land crops	Autres cultures de terres arables	Sonstige Kulturen auf dem Ackerland	Y			
+ARA9T	Other arable land crops - outdoor	Autres cultures de terres arables - de plein air	Sonstige Kulturen auf dem Ackerland - im Freiland	Y			
+ARA9S	Other arable land crops - under glass or high accessible cover	Autres cultures de terres arables - sous serre ou abris hauts accessibles	Sonstige Kulturen auf dem Ackerland - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+PLF	Plants and flowers	Plantes et fleurs	Pflanzgut und Blumen	Y			
+NUP	Nursery products and seedlings	Produits de pépinières et plants	Baumschulerzeugnisse und Pflanzgut	Y			
+N0000_L0000	Flowers, ornamental plants and nursery products	Fleurs, plantes ornementales et produits de pépinière	Blumen, Zierpflanzen und Baumschulerzeugnisse	Y			
+N0000_X0000	Flowers, ornamental plants and Christmas trees	Fleurs, plantes ornementales et arbres de Noël	Blumen, Zierpflanzen und Weihnachtsbäume	Y			
+N0000	Flowers and ornamental plants (excluding nurseries)	Fleurs et plantes ornementales (pépinières non comprises)	Blumen und Zierpflanzen (ohne Baumschulen)	Y			
+N0000T	Flowers and ornamental plants (excluding nurseries) - outdoor	Fleurs et plantes ornementales (pépinières non comprises) - de plein air	Blumen und Zierpflanzen (ohne Baumschulen) - im Freiland	Y			
+N0000S	Flowers and ornamental plants (excluding nurseries) - under glass or high accessible cover	Fleurs et plantes ornementales (pépinières non comprises) - sous serre ou abris hauts accessibles	Blumen und Zierpflanzen (ohne Baumschulen) - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+N1001P	Azaleas - potted	Azalées - en pot	Azaleen - im Topf	Y			
+N1002P	Cyclamens - potted	Cyclamens - en pot	Cyclamen - im Topf	Y			
+N1003P	Poinsettias - potted	Poinsettias - en pot	Poinsettien - im Topf	Y			
+N1004P	Pelargonium - potted	Pelargonium - en pot	Pelargonien - im Topf	Y			
+N1005P	Ficus - potted	Ficus - en pot	Ficus - im Topf	Y			
+N1006P	Kalanchoe - potted	Kalanchoe - en pot	Kalanchoe - im Topf	Y			
+N1007P	Saint Paulia - potted	Saint Paulia - en pot	Saint Paulia - im Topf	Y			
+N1008P	Begonia - potted	Begonia - en pot	Begonien - im Topf	Y			
+N1009	Roses	Roses	Rosen	Y			
+N1010	Baccara roses	Roses baccara	Baccara-Rosen	Y			
+N1011	Carnations	Oeillets	Nelken	Y			
+N1012	Chrysanthemums	Chrysanthèmes	Chrysanthemen	Y			
+N1012P	Chrysanthemums - potted	Chrysanthèmes - en pot	Chrysanthemen - im Topf	Y			
+N1013	Gladioli	Glaïeuls	Gladiolen	Y			
+N1014	Tulips	Tulipes	Tulipen	Y			
+N1015	Freesias	Freesias	Freesien	Y			
+N1016	Lilium	Lys	Lilie	Y			
+N1017	Dianthus	Dianthus	Dianthus	Y			
+N1018	Gerbera	Gerbera	Gerbera	Y			
+N1019	Cymbidium	Cymbidium	Cymbidium	Y			
+PLT	Plantations	Plantations	Anpflanzungen	Y			
+E0000_ARA9	Seeds, seedlings and other crops on arable land	Semences, plants et autres plants de terres arables	Saat-, Pflanzgut und andere Kulturen auf dem Ackerland	Y			
+E0000	Seeds and seedlings	Semences et plants	Saat- und Pflanzgut	Y			
+E0000T	Seeds and seedlings - outdoor	Semences et plants - de plein air	Saat- und Pflanzgut - im Freiland	Y			
+E0000S	Seeds and seedlings - under glass or high accessible cover	Semences et plants - sous serre ou abris hauts accessibles	Saat- und Pflanzgut - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+E1000	Seeds	Semences	Saatgut	Y			
+E1000T	Seeds - outdoor	Semences - de plein air	Saatgut - im Freiland	Y			
+E1000S	Seeds - under glass or high accessible cover	Semences - sous serre ou abris hauts accessibles	Saatgut - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+E2000	Seedlings	Plants	Pflanzgut	Y			
+E2000T	Seedlings - outdoor	Plants - de plein air	Pflanzgut - im Freiland	Y			
+E2000S	Seedlings - under glass or high accessible cover	Plants - sous serre ou abris hauts accessibles	Pflanzgut - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+E2100	Flower bulbs	Bulbes de fleurs	Blumenzwiebeln	Y			
+ARA99	Other arable land crops n.e.c.	Autres cultures de terres arables n.c.a.	Sonstige Kulturen auf dem Ackerland a.n.g.	Y			
+ARA99T	Other arable land crops n.e.c. - outdoor	Autres cultures de terres arables n.c.a. - de plein air	Sonstige Kulturen auf dem Ackerland a.n.g. - im Freiland	Y			
+Q0000	Fallow land	Jachères	Brache/Stillgelegte Flächen	Y			
+Q0000T	Fallow land - outdoor	Jachères - de plein air	Brache/Stillgelegte Flächen - im Freiland	Y			
+Q0000XS	Fallow land without subsidies	Jachères non subventionnées	Brache/Stillgelegte Flächen ohne Beihilfe-/Prämienanspruch	Y			
+Q0000ES	Fallow land not in use, eligible for subsidies	Jachères non exploitées admissibles aux subventions	Brache/Stillgelegte Flächen mit Beihilfe-/Prämienanspruch	Y			
+FOP	Forage plants	Plantes fourragères	Futterpflanzen	Y			
+FOP9	Other forage plants	Autres plantes fourragères	Andere Futterpflanzen	Y			
+FOP91	Hay	Foin	Heu	Y			
+FOP92	Straw	Paille	Stroh	Y			
+FOP93	Silage	Fourrage ensilé	Silage	Y			
+FOP99	Other forage plants n.e.c.	Autres plantes fourragères n.c.a.	Sonstige Futterpflanzen a.n.g.	Y			
+J0000	Permanent grassland	Superficie agricole toujours en herbe	Dauergrünland	Y			
+J0000T	Permanent grassland - outdoor	Superficie agricole toujours en herbe - de plein air	Dauergrünland - im Freiland	Y			
+J1000	Permanent pastures and meadows, excluding rough grazings	Prairies permanentes et pâturages (non compris pâturages pauvres)	Dauerwiesen und -weiden (ohne ertragsarmes Dauergrünland)	Y			
+J1000T	Permanent pastures and meadows - outdoor	Pâturages et prairies permanentes - de plein air	Dauerweiden und -wiesen - im Freiland	Y			
+J1100	Permanent pastures	Pâturages	Dauerweiden	Y			
+J1200	Permanent meadows	Prairies permanentes	Dauerwiesen	Y			
+J2000	Permanent rough grazings	Pâturages pauvres	Ertragsarmes Dauergrünland	Y			
+J2000T	Permanent rough grazings - outdoor	Pâturages pauvres - de plein air	Ertragsarmes Dauergrünland - im Freiland	Y			
+J3000	Permanent agricultural grassland not in use	Prairies permanentes agricoles non exploitées	Aus der Erzeugung genommenes Dauergrünland	Y			
+J3000E	Permanent grassland no longer used for production purposes and eligible for the payment of subsidies	Prairies permanentes non exploitées et donnant droit au versement de subventions	Dauergrünland, das nicht mehr zu Produktionszwecken genutzt wird und beihilfefähig ist	Y			
+J3000ES	Permanent agricultural grassland not in use, eligible for subsidies	Prairies permanentes agricoles non exploitées, donnant droit au versement de subventions	Aus der Erzeugung genommenes Dauergrünland, beihilfefähig	Y			
+J3000TE	Permanent agricultural grassland not in use, eligible for subsidies - outdoor	Prairies permanentes agricoles non exploitées, donnant droit au versement de subventions - de plein air	Aus der Erzeugung genommenes Dauergrünland, beihilfefähig - im Freiland	Y			
+PECR_K0000	Permanent crops including kitchen gardens	Cultures permanentes y compris jardins potagers	Dauerkulturen einschließlich Haus- und Nutzgärten	Y			
+PECR	Permanent crops	Cultures permanentes	Dauerkulturen	Y			
+PECRT	Permanent crops - outdoor	Cultures permanentes - de plein air	Dauerkulturen - im Freiland	Y			
+PECRS	Permanent crops under glass or high accessible cover	Cultures permanentes sous serre ou abris hauts accessibles	Dauerkulturen unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+H0000_K2000	Permanent crops for human consumption including those from kitchen gardens	Cultures permanentes pour la consommation humaine y compris provenant de jardins potagers	Dauerkulturen zur menschlichen Ernährung einschließlich aus Haus- und Nutzgärten	Y			
+H0000	Permanent crops for human consumption	Cultures permanentes pour la consommation humaine	Dauerkulturen zur menschlichen Ernährung	Y			
+H0000T	Permanent crops for human consumption - outdoor	Cultures permanentes pour la consommation humaine - de plein air	Dauerkulturen zur menschlichen Ernährung - im Freiland	Y			
+H0000S	Permanent crops for human consumption - under glass or high accessible cover	Cultures permanentes pour la consommation humaine - sous serre ou abris hauts accessibles	Dauerkulturen zur menschlichen Ernährung - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+FRUAM	Fruits, citrus fruits, berries (including strawberries), nuts, grapes, olives and dried fruits (agri-monetary)	Fruits, agrumes, baies (y compris fraises), fruits à coque, raisins, olives et fruits séchés (agro-monétaire)	Obst, Zitrusfrüchte, Beeren (einschließlich Erdbeeren), Schalenobst, Trauben, Oliven und Trockenobst (LGR und Preise)	Y			
+F0000AM	Fresh fruits (agri-monetary)	Fruits frais (agro-monétaire)	Frischobst (LGR und Preise)	Y			
+F0000	Fruits, berries and nuts (excluding citrus fruits, grapes and strawberries)	Fruits, baies et fruits à coque (agrumes, raisins et fraises non compris)	Obst, Strauchbeeren und Schalenobst (ohne Zitrusfrüchte und Trauben)	Y			
+F0000T	Fruits, berries and nuts (excluding citrus fruits, grapes and strawberries) - outdoor	Fruits, baies et fruits à coque (agrumes, raisins et fraises non compris) - de plein air	Obst, Strauchbeeren und Schalenobst (ohne Zitrusfrüchte und Trauben) - im Freiland	Y			
+F0000X3000	Fruits and nuts (excluding citrus fruits and grapes)	Fruits et fruits à coque (agrumes et raisins non compris)	Obst und Schalenobst (ohne Zitrusfrüchte und Trauben)	Y			
+F1000_3000	Fruits and berries (excluding strawberries) from temperate climate zones	Fruits et baies (fraises non compris) de zones climatiques tempérées	Obst und Strauchbeeren der gemäßigten Klimazonen	Y			
+F1000_2000	Fruits from temperate, subtropical and tropical climate zones	Fruits de zones climatiques tempérées, subtropicales et tropicales	Obstarten der gemäßigten, subtropischen und tropischen Klimazonen	Y			
+F1000	Fruits from temperate climate zones	Fruits de zones climatiques tempérées	Obstarten der gemäßigten Klimazonen	Y			
+F1100	Pome fruits	Fruits à pépins	Kernobst	Y			
+F1110_1120	Apples and pears	Pommes et poires	Äpfel und Birnen	Y			
+F1110	Apples	Pommes	Äpfel	Y			
+F1111	Apples for fresh consumption	Pommes de consommation	Tafeläpfel/Äpfel zum Direkverzehr	Y			
+F1111_01	Boskoop group	Groupe Boskoop	Boskoop Gruppe	Y			
+F1111_02	Braeburn group	Groupe Braeburn	Braeburn Gruppe	Y			
+F1111_03	Cox's orange group	Groupe Cox's orange	Cox's orange Gruppe	Y			
+F1111_031	Cox's orange pippin apples	Pommes Cox's orange pippin	Cox's orange pippin Äpfel	Y			
+F1111_04	Cripps Pink group	Groupe Cripps Pink	Cripps Pink Gruppe	Y			
+F1111_05	Elstar apples group	Groupe Elstar	Elstar Gruppe	Y			
+F1111_051	Elstar apples	Pommes Elstar	Elstar Äpfel	Y			
+F1111_06	Fuji group	Groupe Fuji	Fuji Gruppe	Y			
+F1111_07	Gala group	Groupe Gala	Gala Gruppe	Y			
+F1111_08	Golden Delicious group	Groupe Golden Delicious	Golden Delicious Gruppe	Y			
+F1111_081	Golden Delicious apples	Pommes Golden Delicious	Golden Delicious Äpfel	Y			
+F1111_09	Granny Smith group	Groupe Granny Smith	Granny Smith Gruppe	Y			
+F1111_10	Idared group	Groupe Idared	Idared Gruppe	Y			
+F1111_11	Jonagold/Jonagored group	Groupe Jonagold/Jonagored	Jonagold/Jonagored Gruppe	Y			
+F1111_111	Jonagold apples	Pommes Jonagold	Jonagold Äpfel	Y			
+F1111_112	Jonathan apples	Pommes Jonathan	Jonathan Äpfel	Y			
+F1111_12	Lobo group	Groupe Lobo	Lobo Gruppe	Y			
+F1111_13	Morgenduft group	Groupe Morgenduft	Morgenduft Gruppe	Y			
+F1111_14	Pinova group	Groupe Pinova	Pinova Gruppe	Y			
+F1111_15	Red Delicious group	Groupe Red Delicious	Red Delicious Gruppe	Y			
+F1111_16	Reinette group	Groupe Reinette	Reinette Gruppe	Y			
+F1111_17	Shampion group	Groupe Shampion	Shampion Gruppe	Y			
+F1111_90	Other apples for fresh consumption	Autres pommes de consommation	Andere Tafeläpfel/Äpfel zum Direktverzehr	Y			
+F1111_901	Egrement russet apples	Pommes egrement russet	Egrement russet Äpfel	Y			
+F1111_902	Spartan apples	Pommes Spartan	Spartan Äpfel	Y			
+F1111_909	Other apples for fresh consumption n.e.c	Autres pommes de consommation n.c.a.	Sonstige Tafeläpfel/Äpfel zum Direktverzehr a.n.g.	Y			
+F1112	Apples for processing	Pommes destinées á la transformation	Äpfel zur Verarbeitung	Y			
+F1112_01	Cooking apples	Pommes à cuire	Kochäpfel	Y			
+F1112_011	Bramley's seedling cooking apples	Pommes à cuire Bramley	Bramley's seedling Kochäpfel	Y			
+F1112_02	Cider apples	Pommes à cidre	Cidre - Äpfel	Y			
+F1120	Pears	Poires	Birnen	Y			
+F1121	Pears for fresh consumption	Poires de consommation	Tafelbirnen / Birnen zum Direktverzehr	Y			
+F1121_01	Abate group	Groupe Abate	Abate Gruppe	Y			
+F1121_02	Blanquilla group	Groupe Blanquilla	Blanquilla Gruppe	Y			
+F1121_03	Conference group	Groupe Conférence	Conference Gruppe	Y			
+F1121_04	Coscia-Ercolini group	Groupe Coscia-Ercolini	Coscia-Ercolini Gruppe	Y			
+F1121_05	Decana group	Groupe Decana	Decana Gruppe	Y			
+F1121_051	Doyenne du comice pears	Poires Doyenné du Comice	Doyenne du comice Birnen	Y			
+F1121_06	Guyot group	Groupe Guyot	Guyot Gruppe	Y			
+F1121_07	Kaiser group	Groupe Kaiser	Kaiser Gruppe	Y			
+F1121_08	Rocha group	Groupe Rocha	Rocha Gruppe	Y			
+F1121_09	Williams group	Groupe Williams	William Gruppe	Y			
+F1121_091	Williams pears	Poires Williams	Williams Birnen	Y			
+F1121_90	Other pears for fresh consumption n.e.c.	Autres poires de consommation n.c.a.	Sonstige Tafelbirnen / Birnen zum Direktverzehr a.n.g.	Y			
+F1122	Pears for processing	Poires destinées á la transformation	Birnen zur Verarbeitung	Y			
+F1190	Other pome fruits n.e.c.	Autres fruits à pépins n.c.a.	Sonstiges Kernobst a.n.g.	Y			
+F1191	Quinces	Coings	Quitten	Y			
+F1200	Stone fruits	Fruits à noyau	Steinobst	Y			
+F1200T	Stone fruits - outdoor	Fruits à noyau - de plein air	Steinobst - im Freiland	Y			
+F1200S	Stone fruits - under glass or high accessible cover	Fruits à noyau - sous serre ou abris hauts accessibles	Steinobst - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+F1210-1230	Peaches, nectarines and apricots	Pêches, nectarines, brugnons et abricots	Pfirsiche, Nektarinen und Aprikosen	Y			
+F1210_1220	Peaches and nectarines	Pêches, nectarines et brugnons	Pfirsiche und Nektarinen	Y			
+F1211_1221	Peaches and nectarines for fresh consumption	Pêches, nectarines et brugnons de consommation	Pfirsiche und Nektarinen zum Direktverzehr	Y			
+F1212_1222	Peaches and nectarines for processing	Pêches, nectarines et brugnons destinés á la transformation	Pfirsiche und Nektarinen zur Verarbeitung	Y			
+F1210	Peaches	Pêches	Pfirsiche	Y			
+F1211	Peaches for fresh consumption	Pêches de consommation	Pfirsiche zum Direktverzehr	Y			
+F1211_01	Yellow flesh peaches	Pêches à chair jaune	Gelbfleischige Pfirsiche	Y			
+F1211_01VE	Very early yellow flesh peaches	Pêches à chair jaune très précoces	Sehr frühe gelbfleischige Pfirsiche	Y			
+F1211_01ER	Early yellow flesh peaches	Pêches à chair jaune précoces	Frühe gelbfleischige Pfirsiche	Y			
+F1211_01ME	Medium-early yellow flesh peaches	Pêches à chair jaune mi-précoces	Mittelfrühe gelbfleischige Pfirsiche	Y			
+F1211_01LA	Late yellow flesh peaches	Pêches à chair jaune tardives	Späte gelbfleischige Pfirsiche	Y			
+F1211_02	White flesh peaches	Pêches à chair blanche	Weißfleischige Pfirsiche	Y			
+F1211_02VE	Very early white flesh peaches	Pêches à chair blanche très précoces	Sehr frühe weissfleischige Pfirsiche	Y			
+F1211_02ER	Early white flesh peaches	Pêches à chair blanche précoces	Frühe weissfleischige Pfirsiche	Y			
+F1211_02ME	Medium-early white flesh peaches	Pêches à chair blanche mi-précoces	Mittelfrühe weissfleischige Pfirsiche	Y			
+F1211_02LA	Late white flesh peaches	Pêches à chair blanche tardives	Späte weissfleischige Pfirsiche	Y			
+F1211_03	Doughnut peaches	Pêches plates	Weinbergspfirsiche	Y			
+F1212	Peaches for processing	Pêches destinées à la transformation	Pfirsiche zur Verarbeitung	Y			
+F1220	Nectarines	Nectarines et brugnons	Nektarinen	Y			
+F1221	Nectarines for fresh consumption	Nectarines et brugnons de consommation	Nektarinen zum Direktverzehr	Y			
+F1221_01	Yellow flesh nectarines	Nectarines et brugnons à chair jaune	Gelbfleischige Nektarinen	Y			
+F1221_01VE	Very early yellow flesh nectarines	Nectarines et brugnons à chair jaune très précoces	Sehr frühe gelbfleischige Nektarinen	Y			
+F1221_01ER	Early yellow flesh nectarines	Nectarines et brugnons à chair jaune précoces	Frühe gelbfleischige Nektarinen	Y			
+F1221_01ME	Medium-early yellow flesh nectarines	Nectarines et brugnons à chair jaune mi-précoces	Mittelfrühe gelbfleischige Nektarinen	Y			
+F1221_01LA	Late yellow flesh nectarines	Nectarines et brugnons à chair jaune tardives	Späte gelbfleischige Nektarinen	Y			
+F1221_02	White flesh nectarines	Nectarines et brugnons à chair blanche	Weißfleischige Nektarinen	Y			
+F1221_02VE	Very early white flesh nectarines	Nectarines et brugnons à chair blanche très précoces	Sehr frühe weissfleischige Nektarinen	Y			
+F1221_02ER	Early white flesh nectarines	Nectarines et brugnons à chair blanche précoces	Frühe weissfleischige Nektarinen	Y			
+F1221_02ME	Medium-early white flesh nectarines	Nectarines et brugnons à chair blanche mi-précoces	Mittelfrühe weissfleischige Nektarinen	Y			
+F1221_02LA	Late white flesh nectarines	Nectarines et brugnons à chair blanche tardives	Späte weissfleischige Nekatrinen	Y			
+F1222	Nectarines for processing	Nectarines et brugnons destinées á la transformation	Nektarinen zur Verarbeitung	Y			
+F1230	Apricots	Abricots	Aprikosen/Marillen	Y			
+F1230VE	Very early apricots	Abricots très précoces	Sehr frühe Aprikosen/Marillen	Y			
+F1230ER	Early apricots	Abricots précoces	Frühe Aprikosen/Marillen	Y			
+F1230ME	Medium-early apricots	Abricots mi-précoces	Mittelfrühe Aprikosen/Marillen	Y			
+F1230LA	Late apricots	Abricots tardifs	Späte Aprikosen/Marillen	Y			
+F1240	Cherries	Cerises	Kirschen	Y			
+F1241	Sour cherries	Cerises acides (Griottes)	Sauerkirschen	Y			
+F1242	Sweet cherries	Cerises douces	Süßkirschen	Y			
+F1250	Plums	Prunes	Pflaumen	Y			
+F1251	Quetsches	Quetsches	Zwetschgen	Y			
+F1252	Greengages	Reines-claudes	Renekloden	Y			
+F1253	Mirabelles	Mirabelles	Mirabellen	Y			
+F1259	Plums for drying and other plums	Prunes à pruneaux et autres	Pflaumen zum Trocknen und sonstige Pflaumen	Y			
+F1290	Other stone fruits n.e.c	Autres fruits à noyau n.c.a	Sonstiges Steinobst a.n.g.	Y			
+F2000	Fruits from subtropical and tropical climate zones	Fruits de zones climatiques subtropicales et tropicales	Obstarten der subtropischen und tropischen Klimazonen	Y			
+F2000T	Fruits from subtropical and tropical climate zones - outdoor	Fruits de zones climatiques subtropicales et tropicales - de plein air	Obstarten der subtropischen und tropischen Klimazonen - im Freiland	Y			
+F2000S	Fruits from subtropical and tropical climate zones - under glass or high accessible cover	Fruits de zones climatiques subtropicales et tropicales - sous serre ou abris hauts accessibles	Obstarten der subtropischen und tropischen Klimazonen - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+F2100	Figs	Figues	Feigen	Y			
+F2200	Kiwis	Kiwis	Kiwis	Y			
+F2300	Avocados	Avocats	Avokados	Y			
+F2400	Bananas	Bananes	Bananen	Y			
+F2900	Other fruits from subtropical and tropical climate zones n.e.c.	Autres fruits de zones climatiques subtropicales et tropicales n.c.a.	Sonstige Obstarten der subtropischen und tropischen Klimazonen a.n.g.	Y			
+F2910	Dates	Dattes	Datteln	Y			
+F3000	Berries (excluding strawberries)	Baies (fraises non comprises)	Strauchbeeren	Y			
+F3000T	Berries (excluding strawberries) - outdoor	Baies (fraises non comprises) - de plein air	Strauchbeeren - im Freiland	Y			
+F3000S	Berries (excluding strawberries) - under glass or high accessible cover	Baies (fraises non comprises) - sous serre ou abris hauts accessibles	Strauchbeeren - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+F3100	Currants	Cassis et groseilles	Johannisbeeren	Y			
+F3100T	Currants - outdoor	Cassis et groseilles - de plein air	Johannisbeeren - im Freiland	Y			
+F3100S	Currants - under glass or high accessible cover	Cassis et groseilles - sous serre ou abris hauts accessibles	Johannisbeeren - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+F3110	Blackcurrants	Cassis	Schwarze Johannisbeeren	Y			
+F3110T	Blackcurrants - outdoor	Cassis - de plein air	Schwarze Johannisbeeren - im Freiland	Y			
+F3110S	Blackcurrants - under glass or high accessible cover	Cassis - sous serre ou abris hauts accessibles	Schwarze Johannisbeeren - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+F3120	Red currants	Groseilles	Rote Johannisbeeren	Y			
+F3120T	Red currants - outdoor	Groseilles - de plein air	Rote Johannisbeeren - im Freiland	Y			
+F3120S	Red currants - under glass or high accessible cover	Groseilles - sous serre ou abris hauts accessibles	Rote Johannisbeeren - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+F3200	Raspberries	Framboises	Himbeeren	Y			
+F3200T	Raspberries - outdoor	Framboises - de plein air	Himbeeren - im Freiland	Y			
+F3200S	Raspberries - under glass or high accessible cover	Framboises - sous serre ou abris hauts accessibles	Himbeeren - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+F3300	Blueberries	Myrtilles	Blaubeeren	Y			
+F3300T	Blueberries - outdoor	Myrtilles - de plein air	Blaubeeren - im Freiland	Y			
+F3300S	Blueberries - under glass or high accessible cover	Myrtilles - sous serre ou abris hauts accessibles	Blaubeeren - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+F3900	Other berries n.e.c.	Autres baies n.c.a.	Sonstige Strauchbeeren a.n.g.	Y			
+F3900T	Other berries n.e.c. - outdoor	Autres baies n.c.a. - de plein air	Sonstige Strauchbeeren a.n.g. - im Freiland	Y			
+F3900S	Other berries n.e.c. - under glass or high accessible cover	Autres baies n.c.a. - sous serre ou abris hauts accessibles	Sonstige Strauchbeeren a.n.g. - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+F3910	Gooseberries	Groseilles à maquereau	Stachelbeeren	Y			
+F4000_5000AM	Nuts and dried fruit	Fruits à coque et fruits secs	Schalenobst und Trockenobst	Y			
+F4000	Nuts	Fruits à coque	Schalenobst	Y			
+F4000T	Nuts - outdoor	Fruits à coque - de plein air	Schalenobst - im Freiland	Y			
+F4100	Walnuts	Noix	Walnüsse	Y			
+F4200	Hazelnuts	Noisettes	Haselnüsse	Y			
+F4300	Almonds	Amandes	Mandeln	Y			
+F4400	Chestnuts	Chataîgnes	Esskastanien/Maronen	Y			
+F4900	Other nuts n.e.c.	Autres fruits à coque n.c.a.	Sonstiges Schalenobst a.n.g.	Y			
+F4910	Pistachios	Pistaches	Pistazien	Y			
+F5000AM_9000AM	Other fresh and dried fruits (agri-monetary)	Fruits frais et séchés (agro-monétaire)	Frisch- und Trockenobst (LGR und Preise)	Y			
+F5000AM	Dried fruits (agri-monetary)	Fruits séchés (agro-monétaire)	Trockenobst (LGR und Preise)	Y			
+F5100AM	Dried figs (agri-monetary)	Figues séchées (agro-monétaire)	Getrocknete Feigen (LGR und Preise)	Y			
+F5900AM	Other dried fruits n.e.c. (agri-monetary)	Autres fruits séchés n.c.a. (agro-monétaire)	Sonstiges Trockenobst a.n.g. (LGR und Preise)	Y			
+F9000AM	Other fresh fruits, nuts and dried fruits (agri-monetary)	Autres fruits frais, à coque et séchés (agro-monétaire)	Anderes Frischobst, Schalenobst und Trockenobst (LGR und Preise)	Y			
+F9900AM	Other fresh fruit n.e.c. (agri-monetary)	Autres fruits frais n.c.a. (agro-monétaire)	Sonstiges Frischobst, Schalenobst und Trockenobst a.n.g. (LGR und Preise)	Y			
+T0000	Citrus fruits	Agrumes	Zitrusfrüchte	Y			
+T0000T	Citrus fruits - outdoor	Agrumes - de plein air	Zitrusfrüchte - im Freiland	Y			
+T1000_2000_3100	Oranges, small citrus fruits and yellow lemons	Oranges, petits agrumes et citrons	Orangen, kleine Zitrusfrüchte und Zitronen	Y			
+T1000	Oranges	Oranges	Orangen	Y			
+T1100	Navel oranges	Oranges Navel	Navelorangen	Y			
+T1100ER	Early Navel oranges	Oranges Navel précoces	Frühe Navelorangen	Y			
+T1100ME	Medium-early Navel oranges	Oranges Navel semi-précoces	Mittelfrühe Navelorangen	Y			
+T1100LA	Late Navel oranges	Oranges Navel tardives	Späte Navelorangen	Y			
+T1110	Washington Navel oranges	Oranges Washington navel	Washington Navelorangen	Y			
+T1200	White oranges (blancas)	Oranges blondes	Blondorangen (blancas)	Y			
+T1200ER	Early white oranges (blancas )	Oranges blondes précoces	Frühe Blondorangen	Y			
+T1200LA	Late white oranges (blancas)	Oranges blondes tardives	Späte Blondorangen	Y			
+T1210	Valencia oranges	Oranges Valencia	Valencia Orangen	Y			
+T1300	Blood oranges (sanguines)	Oranges sanguines	Blutorangen (sanguines)	Y			
+T1310	Moro oranges	Oranges Moro	Moro Orangen	Y			
+T1320	Sanguinello oranges	Oranges Sanguinello	Sanguinello Orangen	Y			
+T1330	Tarocco oranges	Oranges Tarocco	Tarocco Orangen	Y			
+T1900	Others oranges n.e.c	Autres oranges n.c.a.	Sonstige Orangen a.n.g.	Y			
+T2000	Small citrus fruits	Petits agrumes	Kleine Zitrusfrüchte	Y			
+T2100	Satsumas	Satsumas	Satsumas	Y			
+T2100VE	Very early satsumas	Satsumas très précoces	Besonders frühe Satsumas	Y			
+T2190	Other satsumas	Autres satsumas	Sonstige Satsumas	Y			
+T2200	Clementines	Clémentines	Clementinen	Y			
+T2200ER	Early clementines	Clémentines précoces	Frühe Clementinen	Y			
+T2200ME	Medium-early clementines	Clémentines semi-précoces	Mittelfrühe Clementinen	Y			
+T2200LA	Late clementines	Clémentines tardives	Späte Clementinen	Y			
+T2900	Other small citrus fruits and mandarin hybrids n.e.c.	Autres petits agrumes et hybrides de mandarine n.c.a.	Sonstige kleine Zitrusfrüchte und Mandarinenhybriden a. n. g.	Y			
+T2910	Mandarins	Mandarines	Mandarinen	Y			
+T2920	Tangerines	Tangerines	Tangerinen	Y			
+T3000	Lemons and acid limes	Citrons et limes (citrons verts)	Zitronen und Limetten	Y			
+T3000AM	Lemons (agri-monetary)	Citrons (agro-monétaire)	Zitronen (LGR und Preise)	Y			
+T3100	Yellow lemons	Citrons jaunes	Zitronen	Y			
+T3110	Winter lemon varieties	Variétés de citrons d'hiver	Winter-Zitronensorten	Y			
+T3110_01	Invernali lemons	Citrons Invernali	Invernali Zitronen	Y			
+T3110_02	Mesero lemons	Citrons Mesero	Mesero Zitronen	Y			
+T3120	Summer lemon varieties	Variétés de citrons d'été	Sommer-Zitronensorten	Y			
+T3120_01	Verdelli lemons	Citrons Verdelli	Verdelli Zitronen	Y			
+T3120_02	Verna lemons	Citrons Vernia	Verna Zitronen	Y			
+T3200	Acid limes	Limes (Citrons verts)	Limetten	Y			
+T4000	Pomelos and grapefruits	Pomélos et pamplemousses	Pampelmusen und Grapefruit	Y			
+T9000	Other citrus fruits n.e.c.	Autres agrumes n.c.a.	Sonstige Zitrusfrüchte a.n.g.	Y			
+T9000AM	Other citrus fruits n.e.c. (agri-monetary)	Autres agrumes n.c.a. (agro-monétaire)	Sonstige Zitrusfrüchte a.n.g. (LGR und Preise)	Y			
+W0000	Grapes, must and wines	Raisins, moûts et vins	Trauben, Traubenmost und Wein	Y			
+W1000	Grapes	Raisins	Trauben	Y			
+W1000T	Grapes - outdoor	Raisins - de plein air	Trauben - im Freiland	Y			
+W1000S	Grapes - under glass or high accessible cover	Raisins - sous serre ou abris hauts accessibles	Trauben - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+W1100	Grapes for wines	Raisins de cuve	Keltertrauben	Y			
+W1110_1120	Grapes for wines with geographical indication (PDO/PGI)	Raisins de cuve pour vin à indication géographique (AOP/IGP)	Keltertrauben für Weine mit geografischer Kennzeichnung (g.U./g.g.A.)	Y			
+W1110	Grapes for wines with protected designation of origin (PDO)	Raisins de cuve pour vin à appellation d'origine protégée (AOP)	Keltertrauben für Weine mit geschützter Ursprungsbezeichnung (g.U.)	Y			
+W1120	Grapes for wines with protected geographical indication (PGI)	Raisins de cuve pour vin à indication géographique protégée (IGP)	Keltertrauben für Weine mit geschützter geografischer Angabe (g.g.A.)	Y			
+W1190	Grapes for other wines n.e.c. (without PDO/PGI)	Raisins de cuve pour autres vins n.c.a. (sans AOP/IGP)	Keltertrauben für andere Weine a.n.g. (ohne g.U./g.g.A.)	Y			
+W1190T	Grapes for other wines n.e.c. (without PDO/PGI) - outdoor	Raisins de cuve pour autres vins n.c.a. (sans AOP/IGP) - de plein air	Keltertrauben für andere Weine a.n.g. (ohne g.U./g.g.A.) - im Freiland	Y			
+WDP	Dual purpose grapes	Raisins à double usage	Trauben mit doppeltem Verwendungszweck	Y			
+W1200	Grapes for table use	Raisins de table	Tafeltrauben	Y			
+W1200T	Grapes for table use - outdoor	Raisins de table - de plein air	Tafeltrauben - im Freiland	Y			
+W1210	White grapes for table use	Raisins blancs de table	Weiße Tafeltrauben	Y			
+W1211	Seedless white grapes for table use	Raisins blancs de table sans pépins	Kernlose weiße Tafeltrauben	Y			
+W1212	Normal white grapes for table use	Raisins blancs de table normaux	Normale weiße Tafeltrauben	Y			
+W1220	Red grapes for table use	Raisins rouges de table	Rote Tafeltrauben	Y			
+W1221	Seedless red grapes for table use	Raisins rouges de table sans pépins	Kernlose rote Tafeltrauben	Y			
+W1222	Normal red grapes for table use	Raisins rouges de table normaux	Normale rote Tafeltrauben	Y			
+W1300	Grapes for raisins	Raisins pour raisins secs	Trauben für Rosinen	Y			
+W1300T	Grapes for raisins - outdoor	Raisins pour raisins secs - de plein air	Trauben für Rosinen - im Freiland	Y			
+W1310	Black Corinth grapes (currants)	Raisins de Corinthe	(Schwarze) Korinthen	Y			
+W1320	Sultana grapes	Raisins Sultana	Sultaninen	Y			
+W1900	Grapes for other purposes n.e.c.	Raisins pour autres utilisations n.c.a.	Trauben für sonstige Zwecke a.n.g.	Y			
+W1900AM	Other fresh grapes (agri-monetary)	Autres raisins frais (agri-monétaire)	Sonstige frische Trauben (LGR und Preise)	Y			
+W2000	Must	Moût	Traubenmost	Y			
+W2100	Vinified must	Moût vinifié	Traubenmost zur Weinherstellung	Y			
+W2200	Non-vinified must	Moût non-vinifié	Nicht zur Weinherstellung bestimmter Traubenmost	Y			
+W2210	Concentrated must	Moût concentré	Konzentrierter Traubenmost	Y			
+W2220	Grape juice	Jus de raisin	Traubensaft	Y			
+W3000	Wines	Vins	Weine	Y			
+W3000R	Wines - red and rosé	Vins rouges et rosés	Rot- und Roséweine	Y			
+W3000W	Wines - white	Vins blancs	Weißweine	Y			
+W3100	Wines with geographical indication (PDO/PGI)	Vins à indication géographique (AOP/IGP)	Weine mit geographischer Angabe (g.U./g.g.A.)	Y			
+W3100R	Wines with PDO/PGI - red and rosé	Vins rouges et rosés AOP/IGP	Rot- und Roséweine mit g.U./g.g.A.	Y			
+W3100W	Wines with PDO/PGI - white	Vins blancs AOP/IGP	Weißweine mit g.U./g.g.A.	Y			
+W3110	Wines with protected designation of origin (PDO)	Vins à appellation d'origine protegée (AOP)	Weine mit geschützter Ursprungsbezeichnung (g.U.)	Y			
+W3110R	Wines with PDO - red and rosé	Vins rouge et rosés AOP	Rot- und Roséweine mit g.U.	Y			
+W3110W	Wines with PDO - white	Vins blancs AOP	Weißweine mit g.U.	Y			
+W3120	Wines with protected geographical indication (PGI)	Vins à indication géographique protegée (IGP)	Weine mit geschützter geografischer Angabe (g.g.A.)	Y			
+W3120R	Wines with PGI - red and rosé	Vins rouges et rosés IGP	Rot- und Roséweine mit g.g.A.	Y			
+W3120W	Wines with PGI - white	Vins blancs IGP	Weißweine mit g.g.A.	Y			
+W3200	Wines without geographical indication (PDO/PGI), including varietal wines	Vins sans indication géographique (AOP/IGP)	Weine ohne geographische Angabe (g.U./g.g.A.)	Y			
+W3200R	Wines without PDO/PGI, including varietal wines - red and rosé	Vins rouges et rosés sans AOP/IGP	Rot- und Roséweine ohne g.U./g.g.A.	Y			
+W3200W	Wines without PDO/PGI, including varietal wines - white	Vins blancs sans AOP/IGP	Weißweine ohne g.U./g.g.A.	Y			
+W3120_3210_3221	Table wines	Vins de table	Tafelweine	Y			
+W3120_3210_3221R	Table wines - red and rosé	Vins de table rouges et rosés	Rote und rosé Tafelweine	Y			
+W3120_3210_3221W	Table wines - white	Vins de table blancs	Weiße Tafelweine	Y			
+W3210_3221	Tables wines without geographical indication (PDO/PGI)	Vins de table sans indication géographique (AOP/IGP)	Tafelweine ohne geographische Angabe (g.U./g.g.A.)	Y			
+W3210_3221R	Table wines without PDO/PGI - red and rosé	Vins de table rouges et rosés sans AOP/IGP	Rote und rosé Tafelweine ohne g.U./g.g.A.	Y			
+W3210_3221W	Table wines without PDO/PGI - white	Vins de table blancs sans AOP/IGP	Weiße Tafelweine ohne g.U./g.g.A.	Y			
+W3210	Varietal wines	Vins de cépage	Rebsortenweine	Y			
+W3210R	Varietal wines - red and rosé	Vins de cépage rouges et rosés	Rote und rosé Rebsortenweine	Y			
+W3210W	Varietal wines - white	Vins de cépage blancs	Weiße Rebsortenweine	Y			
+W3220	Other wines	Autres vins	Andere Weine	Y			
+W3220R	Other wines - red and rosé	Autres vins rouges et rosés	Andere Rot- und Roséweine	Y			
+W3220W	Other wines - white	Autres vins blancs	Andere Weißweine	Y			
+W3221	Other wines for direct human consumption without geographical indication (PDO/PGI) and without mention of variety	Autres vins pour la consommation humaine directe sans indication géograohique (AOP/IGP) et sans cépage	Andere Weine für den Direktverzehr ohne geographische Angabe (g.U./g.g.A.) oder Rebsortenkennzeichnung	Y			
+W3221R	Other wines for direct human consumption without PDO/PGI and without mention of variety - red and rosé	Autres vins rouges et rosés pour la consommation humaine directe sans AOP/IGP et sans cépage	Andere Rot- und Roséweine für den Direktverzehr ohne g.U./g.g.A. oder Rebsortenkennzeichnung	Y			
+W3221W	Other wines for direct human consumption without PDO/PGI and without mention of variety - white	Autres vins blancs pour la consommation humaine directesans AOP/IGP et sans cépage	Andere Weißweine für den Direktverzehr ohne g.U./g.g.A. oder Rebsortenkennzeichnung	Y			
+W3222	Other wines for processing n.e.c.	Autres vins destinés à la transformation n.c.a.	Andere Weine zur Verarbeitung a.n.g.	Y			
+W3222R	Other wines for processing n.e.c. - red and rosé	Autres vins rouges et rosés destinés à la transformation n.c.a.	Andere Rot-und Roséweine zur Verarbeitung a.n.g.	Y			
+W3222W	Other wines for processing n.e.c. - white	Autres vins blancs destinés à la transformation n.c.a.	Andere Weißweine zur Verarbeitung a.n.g.	Y			
+O0000	Olives and olive oil	Olives et huile d'olive	Oliven und Olivenöl	Y			
+O1000	Olives	Olives	Oliven	Y			
+O1000T	Olives - outdoor	Olives - de plein air	Oliven - im Freiland	Y			
+O1100	Olives for table use	Olives de table	Tafeloliven	Y			
+O1900	Other olives	Autres olives	Sonstige Oliven	Y			
+O1910	Olives for oil	Olives pour l'huile	Oliven zur Ölherstellung	Y			
+O1990	Other olives n.e.c.	Autres olives n.c.a.	Sonstige Oliven a.n.g.	Y			
+ODP	Dual purpose olives	Olives à double usage	Oliven mit doppeltem Verwendungszweck	Y			
+O2000	Olive oil	Huile d'olive	Olivenöl	Y			
+O2100	Extra virgin olive oil	Huile d'olive - vierge extra	Natives Olivenöl Extra	Y			
+O2200	Virgin olive oil	Huile d'olive - vierge	Natives Olivenöl	Y			
+O2210	Virgin olive oil - superfine	Huile d'olives - vierge - superfine	Natives Olivenöl - superfine	Y			
+O2220	Virgin olive oil - fine	Huile d'olives - vierge - fine	Natives Olivenöl - fine	Y			
+O2230	Ordinary virgin olive oil - semi-fine/corrente	Huile d'olives - vierge - semi-fine	Gewöhnliches natives Olivenöl (semifine/corrente)	Y			
+O2300	Refined (common) olive oil	Huile d'olives - comune	Raffiniertes Olivenöl	Y			
+O2400	Lampante virgin olive oil	Huile d'olives - lampante	Lampant Olivenöl	Y			
+H9000	Other permanent crops for human consumption n.e.c.	Autres cultures permanentes pour la consommation humaine n.c.a.	Sonstige Dauerkulturen zur menschlichen Ernährung a.n.g.	Y			
+H9100	Carobs	Caroubes	Johannisbrot	Y			
+L0000	Nurseries	Pépinières	Baumschulen	Y			
+L0000T	Nurseries - outdoor	Pépinières - de plein air	Baumschulen - im Freiland	Y			
+L0000S	Nurseries - under glass or high accessible cover	Pépinières - sous serre ou abris hauts accessibles	Baumschulen - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+PECR9_H9000	Other permanent crops including other permanent crops for human consumption	Autres cultures permanentes y compris autres cultures permanentes pour la consommation humaine	Sonstige Dauerkulturen einschließlich sonstige Dauerkulturen zur menschlichen Ernährung	Y			
+PECR9_H9000T	Other permanent crops including other permanent crops for human consumption - outdoor	Autres cultures permanentes y compris autres cultures permanentes pour la consommation humaine - de plein air	Sonstige Dauerkulturen einschließlich sonstige Dauerkulturen zur menschlichen Ernährung - im Freiland	Y			
+PECR9_H9000S	Other permanent crops including other permanent crops for human consumption - under glass or high accessible cover	Autres cultures permanentes y compris autres cultures permanentes pour la consommation humaine - sous serre ou abris hauts accessibles	Sonstige Dauerkulturen einschließlich sonstige Dauerkulturen zur menschlichen Ernährung - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+PECR9	Other permanent crops	Autres cultures permanentes	Sonstige Dauerkulturen	Y			
+PECR9T	Other permanent crops - outdoor	Autres cultures permanentes - de plein air	Sonstige Dauerkulturen - im Freiland	Y			
+PECR9S	Other permanent crops - under glass or high accessible cover	Autres cultures permanentes - sous serre ou abris hauts accessibles	Sonstige Dauerkulturen - unter Glas oder hohen begehbaren Schutzabdeckungen	Y			
+X0000	Christmas trees	Sapins de Noël	Weihnachtsbaumkulturen	Y			
+Z0000	Plaiting, weaving and other permanent crops n.e.c.	Autres cultures permanentes (pour tressage, tissage etc.) n.c.a.	Sonstige Dauerkulturen a.n.g. (z.B. Korbweidenanlagen)	Y			
+Z1000	Vegetative materials used primarily for plaiting	Matériau végétal utilisé principalement pour le tressage	Vegetatives Material, vorwiegend zum Flechten	Y			
+K0000	Kitchen gardens	Jardins potagers	Haus- und Nutzgärten	Y			
+K0000T	Kitchen gardens - outdoor	Jardins potagers - de plein air	Haus- und Nutzgärten - im Freiland	Y			
+K1000	Vegetables from kitchen gardens	Légumes de jardins potagers	Gemüse aus Haus- und Nutzgärten	Y			
+K2000	Fruits from kitchen gardens	Fruits de jardins potagers	Obst aus Haus- und Nutzgärten	Y			
+SAA	Special agricultural production areas	Superficie de production agricole spéciale	Fläche für Spezielle Landwirtschaftliche Erzeugung	Y			
+U0000	Mushrooms	Champignons	Speisepilze	Y			
+U1000	Cultivated mushrooms	Champignons cultivés	Zuchtpilze	Y			
+U1100	Champignons	Champignons de Paris	Champignons	Y			
+U1900	Other cultivated mushrooms n.e.c.	Autres champignons cultivés n.c.a.	Sonstige Speise-/Zuchtpilze a.n.g.	Y			
+U2000	Wild mushrooms	Champignons sauvages	Wildwachsende Speisepilze	Y			
+SAA9	Other special agricultural production areas	Autres superficie de production agricole spéciale	Sonstige Fläche für Spezielle Landwirtschaftliche Erzeugung	Y			
+NUAA	Unutilised agricultural area	Superficie agricole inutilisée	Nicht genutzte landwirtschaftliche Fläche	Y			
+WA	Wooded areas	Superficie boisée	Waldgebiet	Y			
+SRCAA	Short rotation coppice areas	Superficie de taillis à rotation rapide	Kurzumtriebsplantagegebiet	Y			
+FA9	Other areas on the farms	Autres superficies des exploitations agricoles	Sonstige Fläche auf der Farm	Y			
+CRP9	Other crop products	Autres produits végétaux	Andere pflanzliche Erzeugnisse	Y			
+CRP9ORG	Other organic crop products	Autres produits végétaux organiques	Andere Ökologischer/biologischer pflanzliche Erzeugnisse	Y			
+CRP9_RES	Other crop products residues	Autres résidus de produits végétaux	Andere Resten von pflanzliche Erzeugnisse	Y			
+CRP99	Other crop products n.e.c.	Autres produits végétaux n.c.a.	Sonstige pflanzliche Erzeugnisse a.n.g.	Y			
+NONE	None	Aucun	Kein	Y			
